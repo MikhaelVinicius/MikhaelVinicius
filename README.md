@@ -6,7 +6,7 @@ Hello world!
 </div>
 
 #
-Futuro Eng. de Software - Universidade de Pernambuco(UPE), 6º Período
+Futuro Eng. de Software - Universidade de Pernambuco(UPE)
 
   <a href="https://instagram.com/mikhael_vini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:mikhaelvini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
