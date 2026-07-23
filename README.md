@@ -1,6 +1,6 @@
 # Olá, eu sou Mikhael Soel 👋
 
-Estudante de Engenharia de Software na Universidade de Pernambuco (UPE). Atualmente, foco no desenvolvimento de soluções robustas que unem **Desenvolvimento Full-Stack**, **Arquitetura de Microsserviços** e **Inteligência Artificial**.
+Estudante de Engenharia de Software na Universidade de Pernambuco (UPE). Atualmente, foco no desenvolvimento de soluções robustas que unem **Desenvolvimento Full-Stack** e **Inteligência Artificial**.
 
 ---
 
@@ -21,7 +21,7 @@ Estudante de Engenharia de Software na Universidade de Pernambuco (UPE). Atualme
 
 ---
 
-### 🌟 Projetos em Destaque e Experiência
+### 🌟 Alguns de meus Projetos em Destaque e Experiência
 
 - **Diagnóstico e Saúde com IA**: Treinamento e implementação de modelos de Deep Learning para a identificação de câncer de pulmão (com 85% de acurácia) e aplicação de Transfer Learning para o diagnóstico automatizado de lesões cutâneas e doenças em plantas.
 - **Sistemas de Interação Inteligente (RAG)**: Desenvolvimento de aplicação web conectando React e Spring Boot a um motor inteligente feito com LangChain4j, permitindo processamento, extração de contexto e interação direta com documentos em PDF.
