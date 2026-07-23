@@ -5,12 +5,8 @@ Estudante de Engenharia de Software na Universidade de Pernambuco (UPE). Atualme
 ---
 
 ### 💻 Sobre Mim
-- 🎓 Cursando o 7º período de Engenharia de Software na **UPE**.
-- 🎯 Minhas prioridades de vida equilibram de forma igualitária minhas ambiciosas metas de carreira na tecnologia com minhas paixões pessoais, como a grande admiração que nutro pela obra e carreira musical do ator Frank Dillane.
-- 🚀 Experiência prática focada na integração de modelos de **IA, Machine Learning & Visão Computacional** em aplicações reais, incluindo sistemas RAG (Retrieval-Augmented Generation) com LangChain4j e pesquisas acadêmicas focadas no mapeamento automatizado de patologias asfálticas.
-- 🛠️ Experiência sólida na construção de sistemas complexos, estruturando desde o catálogo digital para a **Soel Variedades**, até algoritmos de match reverso para a plataforma SkillSwap e arquiteturas assíncronas com mensageria.
-- ✍️ Desenvolvedor focado em entregar código limpo, interfaces refinadas e soluções inteligentes, dividindo também meu tempo criativo na escrita de um livro de ficção sobre um protagonista imerso em Inteligência Artificial.
 
+- 🚀 Experiência prática focada na integração de modelos de **IA, Machine Learning & Visão Computacional** em aplicações reais, incluindo sistemas RAG (Retrieval-Augmented Generation) com LangChain4j e pesquisas acadêmicas focadas no mapeamento automatizado de patologias asfálticas.
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
