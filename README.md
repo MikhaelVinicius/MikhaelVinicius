@@ -27,7 +27,7 @@ Estudante de Engenharia de Software na Universidade de Pernambuco (UPE). Atualme
 - **Sistemas de Interação Inteligente (RAG)**: Desenvolvimento de aplicação web conectando React e Spring Boot a um motor inteligente feito com LangChain4j, permitindo processamento, extração de contexto e interação direta com documentos em PDF.
 - **Monitor de EPIs (Visão Computacional)**: Criação de um sistema de segurança interativo construído com Streamlit e o modelo YOLO, focado na detecção automatizada de Equipamentos de Proteção Individual em ambientes de trabalho.
 - **Arquitetura de Microsserviços & SkillSwap**: Orquestração de sistemas independentes de e-commerce usando Python, FastAPI, Docker e RabbitMQ. Desenvolvimento do backend em Java (Spring Boot) para a plataforma universitária SkillSwap, implementando algoritmo de match, sistema financeiro de retenção (escrow) e chat contextualizado.
-- **[Portfólio Profissional](https://siteportifolio-gules.vercel.app/)**: Minha vitrine de projetos, destacando o desenvolvimento do **Catálogo Soel Variedades**, além de plataformas turísticas completas.
+
 
 ---
 
